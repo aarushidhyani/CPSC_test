@@ -8,3 +8,6 @@ This is a sample project for learning github
 # Installations
 # Requirements
 
+# Pushing to github
+I'm learning to push my code from local to github
+
